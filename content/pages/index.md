@@ -25,7 +25,9 @@ sections:
     subtitle: What I do
     features:
       - title: Marketing strategy
-        subtitle: 'Website, blog, social media and more.'
+        subtitle: >-
+          Your project needs a tailor made marketing strategy for your targeted
+          group.
         content: >-
           I will handle content writing for your digital assets, from
           newsletters and emails, to Facebook and Google campaigns, whitepapers,
