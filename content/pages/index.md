@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Stand out from your competition and grow your business.
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: My name is Ivana Neckarova and I am growth marketer.
     actions:
       - label: Contact Me
         url: /contact
