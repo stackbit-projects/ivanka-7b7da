@@ -24,7 +24,7 @@ sections:
     title: My services
     subtitle: What I do
     features:
-      - title: Content Creation
+      - title: Marketing strategy
         subtitle: 'Website, blog, social media and more.'
         content: >-
           I will handle content writing for your digital assets, from
