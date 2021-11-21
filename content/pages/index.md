@@ -28,10 +28,12 @@ sections:
         subtitle: >-
           Your project needs a tailor made marketing strategy for your targeted
           group.
-        content: >-
-          I will handle content writing for your digital assets, from
-          newsletters and emails, to Facebook and Google campaigns, whitepapers,
-          case studies and product descriptions. No job is too big or small!
+        content: >
+          First of all, I will start with an audit of your current marketing
+          activities such as social media - paid and organic, email marketing,
+          website, SEO, and PPC campaigns. Based on results from this audit,
+          your business goals, and the targeted group I will prepare the right
+          marketing strategy to acquire new customers and grow.
         actions:
           - label: See Writing Samples
             url: /faq
