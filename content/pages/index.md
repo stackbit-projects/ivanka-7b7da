@@ -66,7 +66,8 @@ sections:
           performance of your website.
         actions:
           - label: Learn More
-            url: /about
+            url: >-
+              https://ivananeckarova.com/?utm_source=Stackbit&utm_medium=link&utm_campaign=personal_website
             style: secondary
             has_icon: true
             icon: arrow-right
