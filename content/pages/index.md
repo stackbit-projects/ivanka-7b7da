@@ -53,9 +53,10 @@ sections:
       - title: SEO
         subtitle: On-page & off-page factors
         content: >
-          The essential for every website is to have a good SEO, otherwise,
-          Google might now index your site. I can check, correct, and give you
-          recommendations regarding
+          The essential for every website is to have a good
+          [SEO](https://ivananeckarova.com/en/czech-seo-specialist/?utm_source=Stackbit\&utm_medium=link\&utm_campaign=personal_website),
+          otherwise, Google might now index your site. I can check, correct, and
+          give you recommendations regarding
           [on-page](https://ivananeckarova.com/en/czech-seo-specialist/?utm_source=Stackbit\&utm_medium=link\&utm_campaign=personal_website#On-page%20factors)
           and [off-page
           factors](https://ivananeckarova.com/en/czech-seo-specialist/?utm_source=Stackbit\&utm_medium=link\&utm_campaign=personal_website#Off-page%20factors)
