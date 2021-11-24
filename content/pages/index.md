@@ -76,10 +76,14 @@ sections:
         media_width: sixty
       - title: Paid campaigns
         subtitle: 'Google Ads, Facebook Ads, LinkedIn.'
-        content: >-
-          I will dive into the ins and outs of your product or service and make
-          sure the right information is communicated throughout your
-          documentation, pamphlets, manuals and technical documents.
+        content: >
+          Ads are an important part of Internet marketing. Paid campaigns also
+          known as
+          [PPC](https://ivananeckarova.com/en/ppc-specialist/?utm_source=Stackbit\&utm_medium=link\&utm_campaign=personal_website),
+          work immediately compare to SEO, which takes at least half a year of
+          intensive work. I will make an audit of your landing pages, keywords,
+          setup for campaigns, optimize them and report results to you the
+          results of your campaign. 
         actions:
           - label: See Past Work
             url: /faq
