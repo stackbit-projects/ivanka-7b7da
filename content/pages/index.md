@@ -52,10 +52,13 @@ sections:
         media_width: sixty
       - title: SEO
         subtitle: On-page & off-page factors
-        content: >-
-          Managing an online business is a full-time job. I will make sure your
-          products look great, sound great, and sell more on your choice of
-          ecommerce platform.
+        content: >
+          The essential for every website is to have a good SEO, otherwise,
+          Google might now index your site. I can check, correct, and give you
+          recommendations regarding on-page and off-page factors such as title,
+          headlines, keywords, internal linking, backlinks. Also If your site is
+          running on WordPress I will take care of the performance of your
+          website.
         actions:
           - label: Learn More
             url: /about
