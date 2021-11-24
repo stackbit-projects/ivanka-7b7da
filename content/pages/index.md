@@ -29,11 +29,16 @@ sections:
           Your project needs a tailor made marketing strategy for your targeted
           group.
         content: >
-          First of all, I will start with an audit of your current marketing
+          First of all, I will start with an audit of your current [internet
+          marketing](https://ivananeckarova.com/en/internet-marketing/?utm_source=Stackbit\&utm_medium=link\&utm_campaign=personal_website)
           activities such as social media - paid and organic, email marketing,
-          website, SEO, and PPC campaigns. Based on results from this audit,
-          your business goals, and the targeted group I will prepare the right
-          marketing strategy to acquire new customers and grow.
+          website,
+          [SEO](https://ivananeckarova.com/en/czech-seo-specialist/?utm_source=Stackbit\&utm_medium=link\&utm_campaign=personal_website),
+          and [PPC
+          campaigns](https://ivananeckarova.com/en/ppc-specialist/?utm_source=Stackbit\&utm_medium=link\&utm_campaign=personal_website).
+          Based on results from this audit, your business goals, and the
+          targeted group I will prepare the right marketing strategy to acquire
+          new customers and grow.
         actions:
           - label: See Writing Samples
             url: /faq
