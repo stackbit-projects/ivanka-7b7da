@@ -55,10 +55,13 @@ sections:
         content: >
           The essential for every website is to have a good SEO, otherwise,
           Google might now index your site. I can check, correct, and give you
-          recommendations regarding on-page and off-page factors such as title,
-          headlines, keywords, internal linking, backlinks. Also If your site is
-          running on WordPress I will take care of the performance of your
-          website.
+          recommendations regarding
+          [on-page](https://ivananeckarova.com/en/czech-seo-specialist/?utm_source=Stackbit\&utm_medium=link\&utm_campaign=personal_website#On-page%20factors)
+          and [off-page
+          factors](https://ivananeckarova.com/en/czech-seo-specialist/?utm_source=Stackbit\&utm_medium=link\&utm_campaign=personal_website#Off-page%20factors)
+          such as title, headlines, keywords, internal linking, backlinks. Also
+          If your site is running on WordPress I will take care of the
+          performance of your website.
         actions:
           - label: Learn More
             url: /about
