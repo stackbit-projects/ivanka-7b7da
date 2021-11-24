@@ -41,7 +41,8 @@ sections:
           new customers and grow.
         actions:
           - label: See Writing Samples
-            url: /faq
+            url: >-
+              https://ivananeckarova.com/?utm_source=Stackbit&utm_medium=link&utm_campaign=personal_website
             style: primary
             has_icon: true
             icon: arrow-right
