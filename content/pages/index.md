@@ -6,7 +6,8 @@ sections:
     subtitle: My name is Ivana Neckarova and I am growth marketer.
     actions:
       - label: Contact Me
-        url: /contact
+        url: >-
+          https://ivananeckarova.com/?utm_source=Stackbit&utm_medium=link&utm_campaign=personal_website
         style: primary
     image: /images/ivana-neckarova- growth marketer.png
     image_alt: A smiling woman
